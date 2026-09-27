@@ -1,0 +1,8 @@
+{
+  "name": "Romantic Surprise & Love Letter",
+  "description": "An interactive romantic surprise gift featuring a secret passcode lock screen, cherished memories scrapbook, wax-sealed love letter, music player, and personalized replay.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
